@@ -1,3 +1,11 @@
 language: java
 
 dist: xenial
+
+addons:
+  sonarcloud:
+    organization: "camsaka"
+
+script:
+  # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
+  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar -Dsonar.projectKey=ipi-java-350-e
