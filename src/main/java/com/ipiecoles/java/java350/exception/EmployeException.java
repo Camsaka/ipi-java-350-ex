@@ -6,4 +6,3 @@ public class EmployeException extends Exception {
     }
 }
 ;;;;ykykykyky
-tyjtjtj
