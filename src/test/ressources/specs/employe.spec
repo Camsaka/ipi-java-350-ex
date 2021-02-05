@@ -9,5 +9,5 @@
 
 ## Embauche d'un manager à mi-temps avec une license
 * Soit un employé appelé "John" "Doe" de matricule "C00123"
-* J'embauche une personne appelée "Jane" "Doe" diplômée d'un "master" en tant que "Manager" avec un taux d'activité de "0.5"
-* J'obtiens bien un nouvel
+* J'embauche une personne appelée "Jane" "Doe" diplômée d'un "master" en tant que "Manager" à "mi-temps"
+* J'obtiens bien un nouvel employé appelé "Jane" "Doe", portant le matricule "M00124", avec un taux d'activité de "1" et touchant un salaire de "1064.85" €
