@@ -47,6 +47,7 @@ public class Employe {
      * Méthode calculant le nombre d'années d'ancienneté à partir de la date d'embauche
      * @return
      */
+
     public Integer getNombreAnneeAnciennete() {
         if(dateEmbauche == null || dateEmbauche.isAfter(LocalDate.now())){
             return 0;
